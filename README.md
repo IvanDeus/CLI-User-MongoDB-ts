@@ -77,7 +77,7 @@ mongodb://localhost:27017
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/IvanDeus/CLI-User-MongoDB-ts.git
 cd CLI-User-MongoDB-ts
 ```
 
@@ -99,7 +99,7 @@ COLLECTION_NAME=users
 bun run app.ts
 ```
 
-## 📖 Usage Guide
+## Usage Guide
 
 ### Main Menu
 When you start the application, you'll see:
