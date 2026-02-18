@@ -231,6 +231,3 @@ Feel free to submit issues and enhancement requests!
 MIT License - feel free to use this project for learning and development.
 
 2026 [ ivan deus ]
----
-
-**Happy Coding!*
